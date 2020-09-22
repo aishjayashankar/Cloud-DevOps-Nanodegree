@@ -1,8 +1,8 @@
-Udacity Cloud DevOps Nanodegree - Project 2 Submission
+# Udacity Cloud DevOps Nanodegree - Project 2 Submission
 
-Name: Aishwarya Jayashankar
+# Deploy a high-availability web app using CloudFormation
 
-To run the project, the following command is to be executed:
+To run the project, the following command is to be executed:<br />
 ./create.sh <stack-name> infrastructure.yml parameters.json
 
 Files attached:
