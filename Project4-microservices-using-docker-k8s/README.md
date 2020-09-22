@@ -1,3 +1,3 @@
 # Udacity Cloud DevOps Nanodegree - Project 4 Submission
 
-The project can be found on clicking [here](https://www.quora.com)
+Click [here](https://github.com/aishjayashankar/Cloud_DevOps_Nanodegree_Project4) to be redirected to the project.
